@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img alt="Mobile Application Demo" src="https://github.com/isabelamoraes/ignite-react-native-stream-data/blob/main/demo/streamdata.gif?raw=true" width="60%">
+  <img alt="Mobile Application Demo" src="https://github.com/isabelamoraes/ignite-react-native-stream-data/blob/master/demo/streamdata.gif?raw=true" width="60%">
 </p>
 
 ## Features
